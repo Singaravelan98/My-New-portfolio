@@ -13,7 +13,7 @@
   color: black !important;
 }
 .nav-link:hover {
-  color: blue !important;
+  color: #2d62be !important;
 }
 .navbar .navbar-collapse {
   flex-grow: 0;
@@ -24,7 +24,7 @@
   /* line-height: 10px; */
 }
 .content span {
-  color: blue;
+  color: #2d62be;
   animation: glow 2s ease-in-out infinite;
 }
 .text i {
@@ -53,7 +53,7 @@
   /* box-shadow: -30x 10px #2d62be; */
 }
 .image .row .col-6 h1 {
-  color: blue;
+  color: #2d62be;
   text-decoration: underline;
 }
 .image {
@@ -64,7 +64,7 @@
 }
 #top .heade1 {
   padding-top: 100px;
-  color: blue;
+  color: #2d62be;
   display: flex;
   justify-content: center;
   text-decoration: underline;
@@ -80,6 +80,7 @@
 }
 .con .icon .ic {
   text-transform: lowercase !important;
+  font-size: 22px;
 }
 
 .heade1 {
@@ -90,14 +91,14 @@
   text-align: center;
 }
 .text6 {
-  border-color: darkblue;
+  border-color: #2d62be;
   display: flex;
   justify-content: center;
 }
 .education {
   border: 2px solid;
   border-color: rgb(241, 224, 224);
-  background-color: cadetblue;
+  background-color: #2d62be;
   box-shadow: -30x 10px #2d62be;
   border-radius: 18px;
   /* box-shadow: -30x 10px #2d62be; */
@@ -109,7 +110,7 @@
 }
 .head2 {
   padding-top: 100px;
-  color: blue;
+  color: #2d62be;
   display: flex;
   justify-content: center;
   text-decoration: underline;
@@ -174,7 +175,12 @@
 .cn {
   margin-bottom: 50px;
 }
-
+.con .icon1 .ic1 {
+  font-size: 22px;
+}
+.icon span {
+  font: size 32px;
+}
 /* .demo a {
   margin-right: 20px;
 } */
