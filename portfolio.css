@@ -215,6 +215,12 @@
   .fa-2x {
     font-size: 1em !important;
   }
+  .quotes {
+    font-size: 11px;
+  }
+  .text1 {
+    padding-bottom: 150px;
+  }
 }
 
 @media (max-width: 992px) {
